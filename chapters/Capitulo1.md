@@ -1,14 +1,13 @@
 ---
 title: 'Capítulo 1: Iniciando'
 description:
-  'Este capítulo will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'Este capítulo enseña lo más importante de R.'
 prev: null
-next: /chapter2
+next: /Capitulo2
 type: chapter
 id: 1
 ---
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="1" title="Introducción" type="slides">
 
 <slides source="chapter1_01_introduction">
 </slides>
@@ -41,9 +40,9 @@ This is not correct either.
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="3" title="Fundamentos de R">
 
-This is a code exercise. The content can be formatted in simple Markdown â€“Â so
+This is a code exercise. The content can be formatted in simple Markdown 
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
 the one for the instructions below.
 
@@ -53,8 +52,12 @@ the one for the instructions below.
 
 <codeblock id="01_03">
 
-This is a hint.
+ESto es una ayuda
 
 </codeblock>
 
+</exercise>
+
+
+<exercise id="4" title="Último capítulo">
 </exercise>

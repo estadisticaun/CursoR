@@ -2,14 +2,30 @@
 type: slides
 ---
 
-# Introduction
+# Introducción
 
-Notes: Text at the end of a slide prefixed like this will be displayed as
+Notes: Este es el último texto [Estadísticas](http://estadisticas.unal.edu.co/home/) at the end of a slide prefixed like this will be displayed as
 speaker notes on the side. Slides can be separated with a divider: ---.
+
+<p style="color:red;"><b> Preguntas Frecuentes</b></p>
+
+1. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
+
+2. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
+
+3. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
+
+4. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
+
+5. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
+
+6. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
+
+7. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
 
 ---
 
-# This is a slide
+# Esto es una diapositiva
 
 ```r
 # Print something
