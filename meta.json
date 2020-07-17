@@ -17,9 +17,10 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "http://estadisticas.unal.edu.co/home/" },
-        { "text": "Source", "url": "https://cursorp.netlify.app/" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
+        { "text": "Web", "url": "http://estadisticas.unal.edu.co/home/" },
+        { "text": "Web curso", "url": "https://plantillar.netlify.app/" },
+        { "text": "Código fuente", "url": "https://github.com/estadisticaun/CursoR" },
+        { "text": "Sígueme en Twitter ♥", "url": "https://twitter.com/tipsder" }
     ],
     "theme": "#de7878"
 }
