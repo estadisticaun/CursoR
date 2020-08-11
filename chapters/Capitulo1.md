@@ -14,7 +14,7 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Empezando">
 
 Esto es solo un test, vamos a probar caracteres especiales con tildés y ñame
 
