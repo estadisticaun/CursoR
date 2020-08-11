@@ -8,10 +8,10 @@ mtcars$cyl <- factor(mtcars$cyl,levels=c(4,6,8),
    labels=c("4cyl","6cyl","8cyl"))
 
 # Print the gear variable of mtcars
-print(_____________)
+print(________)
 
 # Assign the length of mtcars to some_var
-some_var <- _____________
+some_var <- ________
 
 # Uncomment this to see the plot
 # print(qplot(mpg, data=mtcars, geom="density", fill=gear, alpha=I(.5)))
