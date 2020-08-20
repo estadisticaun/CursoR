@@ -15,14 +15,6 @@ speaker notes on the side. Slides can be separated with a divider: ---.
 
 3. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
 
-4. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
-
-5. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
-
-6. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
-
-7. **Matriculados en pregrado** : contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Amazonía. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
-
 ---
 
 # Esto es una diapositiva
@@ -33,7 +25,7 @@ print("Hello world", quote = FALSE)
 ```
 
 ```out
-Hello world
+Hola Mundo
 ```
 
 - Slides can have code, bullet points, tables and pretty much all other Markdown
@@ -53,3 +45,21 @@ libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
 commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
 semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
 velit nec, consectetur placerat enim.
+
+---
+
+# Esto es una diapositiva final
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
+libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
+commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
+semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
+velit nec, consectetur placerat enim.
+
+```r
+# Print something
+print("Hello world", quote = FALSE)
+```
+---
+
+# ¡Vamos a la práctica!
