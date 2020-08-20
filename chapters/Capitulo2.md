@@ -1,9 +1,7 @@
 ---
 title: 'Capítulo 2: Un poco más'
 description:
-  'Este capítulo enseña
-  you even more stuff and help you learn some new
-  concepts.'
+  'Este capítulo enseña los conceptos básicos de Rstudio'
 prev: /Capitulo1
 next: /Capitulo3
 type: chapter
