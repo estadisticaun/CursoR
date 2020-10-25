@@ -1,12 +1,13 @@
 ---
 title: 'Capítulo 1: Iniciando'
 description:
-  'Este capítulo enseña lo más importante de R.'
+  'Este capítulo enseña los fundamentos de R.'
 prev: null
 next: /Capitulo2
 type: chapter
 id: 1
 ---
+
 <exercise id="1" title="Introducción" type="slides">
 
 <slides source="chapter1_01_introduction">
@@ -43,7 +44,7 @@ This is not correct either.
 <exercise id="3" title="Fundamentos de R">
 
 This is a code exercise. The content can be formatted in simple Markdown 
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
+you can have **bold text**, `code` or [R basico](https://rbasico.netlify.app/) or lists, like
 the one for the instructions below.
 
 - These are instructions and they can have bullet points.
