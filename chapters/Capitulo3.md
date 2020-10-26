@@ -8,5 +8,11 @@ type: chapter
 id: 2
 ---
 
-<exercise id="1" title="Primer componente">
+<exercise id="1" title="Sección 1">
+</exercise>
+
+<exercise id="2" title="Sección 2">
+</exercise>
+
+<exercise id="3" title="Sección 3">
 </exercise>

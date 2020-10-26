@@ -10,3 +10,6 @@ id: 2
 
 <exercise id="1" title="Primer componente">
 </exercise>
+
+<exercise id="2" title="Segundo componente">
+</exercise>

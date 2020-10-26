@@ -51,11 +51,22 @@ the one for the instructions below.
 - The code block below will look for the files `exc_01_03`, `solution_01_03` and
   `test_01_03` in `/exercises`.
 
-<codeblock id="01_03">
+`EJERCICIO 1`
 
-ESto es una ayuda
+<codeblock id="01_03_01">
+
+Esto es una ayuda para el ejercicio 1
 
 </codeblock>
+
+<p style="color:#e6550d";><i>Ejercicio 2</i></p>
+
+<codeblock id="01_03_02">
+
+Esto es una ayuda para el ejercicio 2
+
+</codeblock>
+
 
 </exercise>
 
