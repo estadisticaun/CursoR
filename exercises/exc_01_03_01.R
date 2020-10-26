@@ -15,3 +15,12 @@ some_var <- ________
 
 # Uncomment this to see the plot
 # print(qplot(mpg, data=mtcars, geom="density", fill=gear, alpha=I(.5)))
+
+# Uncomment this to see the plot
+# print(qplot(mpg, data=mtcars, geom="density", fill=gear, alpha=I(.5)))
+
+# Uncomment this to see the plot
+# print(qplot(mpg, data=mtcars, geom="density", fill=gear, alpha=I(.5)))
+
+# Uncomment this to see the plot
+# print(qplot(mpg, data=mtcars, geom="density", fill=gear, alpha=I(.5)))

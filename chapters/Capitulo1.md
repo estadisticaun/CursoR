@@ -59,6 +59,8 @@ Esto es una ayuda para el ejercicio 1
 
 </codeblock>
 
+Es decir, en la igualdad del ejemplo propuesto `"1" == 1` R, al detectar que los tipos de datos involucrados en la igualdad son de diferentes tipologías, lo primero que hace es igualarlos según la jereraquía propuesta. Según la regla, un dato de tipo textual o caracter tiene mayor jerarquía que un dato de tipo numérico (_caracter > numérico_) hecho que conduce a R a convertir el dato de tipo numérico **1** en un dato de tipo textual **"1"** para garantizar que los tipos de datos involucrados en la expresión lógica sean del mismo tipo. En conclusión, al evaluar la operación lógica `"1" == 1` en R, por la regla de coherción, lo que el lenguaje efectivamente evaluará es la operación `"1" == "1"` cuyo resultado es TRUE. A continuación, se presentan otros ejemplos en lo que se invita al lector a reflexionar sobre la forma como R está aplicando en ellos la regla de coerción.
+
 <p style="color:#e6550d";><i>Ejercicio 2</i></p>
 
 <codeblock id="01_03_02">
